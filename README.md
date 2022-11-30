@@ -1,7 +1,6 @@
-> :tada: Useful snippets written in different languages :tada:
-
 # Snippets for web
-A collection of self-contained scripts in a world where dependencies mean everything.
+
+:tada: A collection of self-contained scripts in a world where dependencies mean everything. :tada:
 
 ## MySQL
 
